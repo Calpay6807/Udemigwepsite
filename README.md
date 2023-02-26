@@ -5,4 +5,4 @@
 
 bu bir udemig sayfasıdı
 
-<img src= "udemig.gif" width="50%" text-align="center"/>
+<img src= "udemig.gif"/>
